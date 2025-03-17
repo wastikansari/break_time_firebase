@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168678179111",
+    "project_id": "break-time-7cd0a",
+    "storage_bucket": "break-time-7cd0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168678179111:android:cba94372290bf88fbc2902",
+        "android_client_info": {
+          "package_name": "com.breaktime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTExihv3NvyIVCwmjJJQ9hI13niVWrqtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
