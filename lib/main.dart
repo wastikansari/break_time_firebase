@@ -27,6 +27,9 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
+        theme: ThemeData(
+          fontFamily: 'SFPro',
+        ),
         initialRoute: AppRoutes.initialRoute,
         onGenerateRoute: AppRoutes.generateRoute,
       ),
